@@ -5,4 +5,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamzly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+<img src="https://repobeats.axiom.co/api/embed/39999a1759f8456fe920f5d9d0a7434ff0b9a594.svg" />
+
+
 
