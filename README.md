@@ -7,6 +7,12 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamzly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+### Visitors Count
+
+<img align="left" src="https://profile-counter.glitch.me/iamzly/count.svg" alt ="ALI">
+
+
+
 
 
 
