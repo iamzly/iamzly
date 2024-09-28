@@ -1,14 +1,21 @@
 <img align="right" width="33%" style="margin-bottom: 2em" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+iamzly!;Nice+to+meet+you!">
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamzly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<br>
 
 ### 👯 Visitors Count:
 
 <img align="left" src="https://profile-counter.glitch.me/iamzly/count.svg" alt ="ALI">
+<br>
 
 ### 📊 GitHub Stats:
 
 <img src="https://repobeats.axiom.co/api/embed/39999a1759f8456fe920f5d9d0a7434ff0b9a594.svg" />
+<br>
 
 ### 🌈 Languages and Tools:
 
